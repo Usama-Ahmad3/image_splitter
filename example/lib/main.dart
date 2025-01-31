@@ -98,8 +98,8 @@ class _ImageSplitterDemoState extends State<ImageSplitterDemo> {
             Expanded(
               child: ImageSplitter(
                 image: imageFile!,
-                crossAxisCount: 3,
-                rowCount: 3,
+                crossAxisCount: 4,
+                rowCount: 4,
                 onControllerReady: (controller) {
                   splitterController = controller;
                 },

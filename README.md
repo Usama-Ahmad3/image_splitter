@@ -2,6 +2,10 @@
 
 A Flutter package that allows you to split images into customizable grids with an interactive preview. This package provides an easy way to select a portion of an image and split it into equal parts.
 
+## Screenshot
+
+![img.png](img.png)
+
 ## Features
 
 - 🖼️ Split images into customizable grids
@@ -18,7 +22,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  image_splitter: ^0.0.1
+  image_splitter: ^0.0.3
 ```
 
 ## Usage
