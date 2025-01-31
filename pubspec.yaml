@@ -1,7 +1,7 @@
 name: image_splitter
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Usama-Ahmad3/image_splitter
 
 environment:
   sdk: ^3.6.0
