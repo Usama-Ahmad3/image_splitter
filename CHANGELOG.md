@@ -1,4 +1,4 @@
-## 0.0.3
+## 0.0.4
 
 ### Fixed
 - Reverted changes in `android/app/build.gradle` to original state.

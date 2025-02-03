@@ -4,7 +4,7 @@ A Flutter package that allows you to split images into customizable grids with a
 
 ## Screenshot
 
-![img.png](img.png)
+![Image Splitter Demo](screenshots/Screenshot_1.jpg)
 
 ## Features
 
