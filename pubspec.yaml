@@ -1,6 +1,6 @@
 name: image_splitter
-description: "A Flutter package that allows you to split images into customizable grids with an interactive preview. This package provides an easy way to select a portion of an image and split it into equal parts."
-version: 0.0.4
+description: "A Flutter package to split images into grids with an interactive preview. Easily select a portion of an image and divide it into equal parts."
+version: 0.0.5
 homepage: https://github.com/Usama-Ahmad3/image_splitter
 
 environment:
@@ -11,8 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
   croppy: ^1.3.3
-  loading_overlay: ^0.3.0
-  image: ^4.1.2
+  loading_overlay: ^0.4.2
+  image: ^4.5.2
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -1,0 +1,2 @@
+/Users/apple/Documents/image_splitter/example/android/app/.cxx/Debug/645d6c6y/x86/CMakeFiles/edit_cache.dir
+/Users/apple/Documents/image_splitter/example/android/app/.cxx/Debug/645d6c6y/x86/CMakeFiles/rebuild_cache.dir

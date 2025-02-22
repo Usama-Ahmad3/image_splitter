@@ -4,3 +4,6 @@
 - Reverted changes in `android/app/build.gradle` to original state.
 - Minor improvements and stability fixes.
 - Add screen shot.
+## 0.0.5
+- Update Packages.
+- Update Documentation.
