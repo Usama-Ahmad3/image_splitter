@@ -22,7 +22,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  image_splitter: ^0.0.5
+  image_splitter: ^0.0.6
 ```
 
 ## Usage

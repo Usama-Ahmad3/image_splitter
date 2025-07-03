@@ -7,3 +7,5 @@
 ## 0.0.5
 - Update Packages.
 - Update Documentation.
+## 0.0.6
+- add lints
